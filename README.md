@@ -1,5 +1,5 @@
 # 💫 About Me:
-A 5th year student at Bahirdar university<br>Android developer<br>website developer 
+A 5th year student at Bahirdar university<br>Android developer<br>website developer <br>ui/ux designer
 
 
 # 💻 Tech Stack:
